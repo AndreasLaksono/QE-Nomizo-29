@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Blokir User</name>
+   <tag></tag>
+   <elementGuidId>8649fd50-3181-46b8-b8b7-b006b0a61376</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.text-capitalize.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.error</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div/main/div/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div[6]/button[count(. | //*[(text() = '
+                        Blokir
+                      ' or . = '
+                        Blokir
+                      ')]) = count(//*[(text() = '
+                        Blokir
+                      ' or . = '
+                        Blokir
+                      ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6cedec6a-c3da-43ad-8d97-608c38fee186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c50472c-cba4-4091-b138-caca0e060a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default error</value>
+      <webElementGuid>983f4303-4108-4c49-8190-e0250d545387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Blokir
+                      </value>
+      <webElementGuid>e4d82fc3-0a6d-4022-bec5-120b8d4326e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div/main/div/div/div/div[2]/div/div[1]/div/div/div/div[2]/div/div[6]/button</value>
+      <webElementGuid>2dad69e1-7f4f-42cc-86a8-5af27cac436b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>b7f2247d-8a84-410e-8748-114368703f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div/div/div/div[2]/div/div[6]/button</value>
+      <webElementGuid>c2fa63d4-9074-4b80-8020-e3673b1bb1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jul 13, 2022'])[1]/following::button[1]</value>
+      <webElementGuid>3cf6bcf8-a72f-42de-8f2a-0080e4dbffe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moderator of'])[1]/preceding::button[1]</value>
+      <webElementGuid>be5e31e2-cae9-41ae-b092-cde535de99bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>ba66f94a-f8cb-432f-afd7-601148c87086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                        Blokir
+                      ' or . = '
+                        Blokir
+                      ')]</value>
+      <webElementGuid>5a57cb71-de92-4750-a2dd-2a42cd1f24ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

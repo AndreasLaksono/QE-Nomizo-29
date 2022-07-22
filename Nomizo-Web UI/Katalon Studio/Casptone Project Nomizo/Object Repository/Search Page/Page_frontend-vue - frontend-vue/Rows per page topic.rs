@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rows per page topic</name>
+   <tag></tag>
+   <elementGuidId>e91b4854-f5f0-40a9-b097-7118b13a3972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[2]/div/div/div/div/div/div[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-data-table.elevation-1.v-data-table--has-bottom.theme--light.v-data-table--mobile > div.v-data-footer > div.v-data-footer__select > div.v-input.v-input--hide-details.v-input--is-label-active.v-input--is-dirty.theme--light.v-text-field.v-text-field--is-booted.v-select > div.v-input__control > div.v-input__slot > div.v-select__slot > div.v-input__append-inner > div.v-input__icon.v-input__icon--append > i.v-icon.notranslate.mdi.mdi-menu-down.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60606b5b-c174-4f6f-9b81-2e2e1dcef527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ea229ae3-0c73-41a4-b38a-744db4af4528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-menu-down theme--light</value>
+      <webElementGuid>fb065c35-b41d-4a2c-a1e2-c27767908ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[2]/div[1]/div/div/div/div[1]/div[2]</value>
+      <webElementGuid>d428534f-dfb4-4e37-8d98-9c4087bde9d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[2]/div/div/div/div/div/div[2]/div/i</value>
+      <webElementGuid>26e9d049-b7d1-4223-abb9-9f3dffca4d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div[2]/div/div/div/div/div/div[2]/div/i</value>
+      <webElementGuid>1612f9a2-1d2f-43d0-97f7-b449d71b45e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

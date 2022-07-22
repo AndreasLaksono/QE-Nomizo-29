@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_next Image</name>
+   <tag></tag>
+   <elementGuidId>1a1a0359-d63c-4864-a4ba-a19d5048aebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col col-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pt-3 py-1 pb-2 col col-12&quot;]/div[@class=&quot;rounded-lg mx-auto v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-list-item v-list-item--three-line theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/section[1]/div[@class=&quot;flex text-center&quot;]/div[@class=&quot;v-window v-item-group theme--dark v-carousel&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window__next&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--dark v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-chevron-right theme--dark&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-chevron-right.theme--dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/section/div/div/div/div[2]/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8f3d7cbf-6fe9-46f0-81b2-6a197ebdec66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f837ca20-e646-42df-8287-720c3c24ae5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-chevron-right theme--dark</value>
+      <webElementGuid>94bc5f95-4e8f-4168-901e-524083519685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div/main/div/div/div[3]/div[1]/div/div/div/div[1]/div/section/div/div/div/div[2]/button/span</value>
+      <webElementGuid>a7f67e33-5b97-4734-8441-3e1fb0d8a645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/section/div/div/div/div[2]/button/span/i</value>
+      <webElementGuid>21488d45-04f6-460e-bc81-85c90fbfbaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>04b333ee-b394-4512-a12e-5bae05b80744</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

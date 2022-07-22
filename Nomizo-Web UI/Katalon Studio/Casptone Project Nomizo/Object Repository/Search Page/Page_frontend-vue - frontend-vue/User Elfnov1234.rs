@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>User Elfnov1234</name>
+   <tag></tag>
+   <elementGuidId>c4616198-5ba1-4fba-b8fe-85744789fb07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[3]/section/div/div/table/tbody/tr[2]/td/div/a/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[1]/table/tbody/tr[2]/td[1]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ccb12ed-ca3e-4617-8eb4-eb2b512432e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  @Elfnov1234
+</value>
+      <webElementGuid>5056f965-437b-4b85-adf1-3cf3f90ffec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[1]/table/tbody/tr[2]/td[1]/a/span</value>
+      <webElementGuid>dc453938-4c0c-4fc1-b418-012919628d7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[3]/section/div/div/table/tbody/tr[2]/td/div/a/span</value>
+      <webElementGuid>03932716-ff24-4bd6-9884-4c685928ad73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/following::span[1]</value>
+      <webElementGuid>0128d0e5-b192-47a4-a4a7-28a25eec8472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Elf123456'])[1]/following::span[2]</value>
+      <webElementGuid>46448b8a-5bc3-46ad-9218-df338713857d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[2]/preceding::span[1]</value>
+      <webElementGuid>21d49bc3-3232-45b9-91c6-fd3b1e3fa66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@Elfnov1234']/parent::*</value>
+      <webElementGuid>f49fbf2b-1e2e-42be-b6a3-998cac5935ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/a/span</value>
+      <webElementGuid>83cd3d97-cc14-4046-a47c-85167ac7001f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+  @Elfnov1234
+' or . = '
+  @Elfnov1234
+')]</value>
+      <webElementGuid>2db4658b-ccd7-4444-b16b-f6b20626639e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

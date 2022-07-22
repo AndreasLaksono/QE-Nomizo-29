@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Details Food Topic</name>
+   <tag></tag>
+   <elementGuidId>19cd4c71-dd8d-4a6a-bfd3-726220ce0898</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mx-2.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div/main/div/section/div/div/div/div/div[2]/div[1]/table/tbody/tr[1]/td[5]/button[count(. | //*[@type = 'button' and (text() = '
+                Details
+              ' or . = '
+                Details
+              ')]) = count(//*[@type = 'button' and (text() = '
+                Details
+              ' or . = '
+                Details
+              ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a37e628-8722-41d2-b7e4-dd30f9d9495d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>43df647b-717c-44f0-91a4-24f1ad2e650f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-2 v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default</value>
+      <webElementGuid>aa7ff2c6-cae3-4b68-95c4-1194ece8c560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Details
+              </value>
+      <webElementGuid>ed8e5e8c-55ce-40d2-95cd-75e77462ebd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/main/div/section/div/div/div/div/div[2]/div[1]/table/tbody/tr[1]/td[5]/button</value>
+      <webElementGuid>a74fcbdc-4435-49a4-bd59-978e1edc6b68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>22463af6-4cf0-4e3a-b48f-de07991052c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/table/tbody/tr/td[5]/button</value>
+      <webElementGuid>02166963-73a4-48f1-bcee-0117f375b65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jul 13, 2022'])[1]/following::button[1]</value>
+      <webElementGuid>3eeb7d57-8721-4d99-b63e-bc9d69b44106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architectures'])[1]/following::button[1]</value>
+      <webElementGuid>94fdf8c0-c2e6-4edf-b140-467b85e17cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foods'])[1]/preceding::button[1]</value>
+      <webElementGuid>d43328d4-c7cf-4a3c-af45-5c7ec0f5dd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e8cbb1f7-b54f-402a-a652-2d7f634eaec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                Details
+              ' or . = '
+                Details
+              ')]</value>
+      <webElementGuid>415d83f0-2074-42b7-9e08-9cdc47c6e464</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

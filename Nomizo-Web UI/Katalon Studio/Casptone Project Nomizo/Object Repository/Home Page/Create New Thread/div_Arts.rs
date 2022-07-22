@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Arts</name>
+   <tag></tag>
+   <elementGuidId>721d3c67-88d8-4719-b6e7-6fe573cdb18c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-380-4 > div.row.pa-1.align-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-380-4']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25baf54e-2123-4e7e-a4aa-48320b43b44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row pa-1 align-center</value>
+      <webElementGuid>f4950391-c24c-4778-bf07-08fc981bf990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+  Arts
+</value>
+      <webElementGuid>1fba3a0b-a2a4-4be9-9488-d6d54ba7540d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-380-4&quot;)/div[@class=&quot;row pa-1 align-center&quot;]</value>
+      <webElementGuid>112139f6-d0b0-4be7-9c35-7eb8c1ecdfd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-380-4']/div</value>
+      <webElementGuid>d8795e00-e60d-47d7-a187-99cc0be2fab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fish'])[1]/following::div[2]</value>
+      <webElementGuid>b16dd4ee-7d1f-48e6-bfc9-44f5f0a695de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drinks'])[1]/following::div[9]</value>
+      <webElementGuid>4409cc88-40be-40f0-9b12-efc9bc3048fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Badminton'])[1]/preceding::div[8]</value>
+      <webElementGuid>d6e34e4c-e3e5-4278-ad45-69dc0c3d90ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>0682a8bf-8f20-4e40-8e6b-c37583dd2531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+  Arts
+' or . = ' 
+  Arts
+')]</value>
+      <webElementGuid>ae36ff31-527e-4530-8061-35e1f6587724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

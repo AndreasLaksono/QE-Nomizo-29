@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Follow User 13</name>
+   <tag></tag>
+   <elementGuidId>0f888e64-529e-4038-87e3-145c19d0c0c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>287c858e-1337-43cf-8353-e92e0524016c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>154b7f56-2646-4fe0-94ca-a8d357d6d6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default</value>
+      <webElementGuid>bc97f843-8b76-4346-b3d5-ab944316cbdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Follow</value>
+      <webElementGuid>c6e882b2-04fd-4ed3-afb8-a70d8d4a0a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/section[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col col-12&quot;]/div[@class=&quot;shadow rounded px-5 py-2 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/section[1]/div[@class=&quot;v-data-table elevation-1 v-data-table--has-bottom theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[4]/td[@class=&quot;text-right&quot;]/button[@class=&quot;text-capitalize v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default&quot;]</value>
+      <webElementGuid>bcf56f27-425e-4a77-80c0-1c66a43d6a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>c693dfb4-070f-4634-85da-b411ce914a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div/table/tbody/tr[4]/td[3]/button</value>
+      <webElementGuid>c8ecd15e-231e-48be-9fd2-46cf0bae09ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@UniqueUser13'])[1]/following::button[1]</value>
+      <webElementGuid>4630e9c2-2ed7-4dd1-b7ea-a1838ed792f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[11]/following::button[1]</value>
+      <webElementGuid>777f0fef-60d9-4471-9e0a-43dadb33874e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@UniqueUser17'])[1]/preceding::button[1]</value>
+      <webElementGuid>808765f1-00a9-4e15-9b88-e136a0410a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div/table/tbody/tr[4]/td[3]/button</value>
+      <webElementGuid>b79e11df-a81b-42eb-b8dc-7e135cfb2008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Follow' or . = 'Follow')]</value>
+      <webElementGuid>da572141-9994-466e-abc0-53287f4b2466</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

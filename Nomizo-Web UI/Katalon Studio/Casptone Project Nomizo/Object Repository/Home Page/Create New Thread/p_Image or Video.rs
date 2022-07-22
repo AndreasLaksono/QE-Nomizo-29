@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Image or Video</name>
+   <tag></tag>
+   <elementGuidId>0bf428b2-0d9e-4092-bd66-7482c191c1bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-h6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/div/form/div/div/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cce15414-f6aa-4877-bbc6-0a558f601bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-h6</value>
+      <webElementGuid>f71e63df-5b49-4c4b-b8f4-6bde082c619b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Image or Video</value>
+      <webElementGuid>870496a2-af98-4bae-a3c6-a9f913cc70c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col col-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;py-1 my-1 col col-12&quot;]/div[@class=&quot;rounded-lg mx-auto py-3 px-3 v-card v-sheet v-sheet--outlined theme--light&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/div[@class=&quot;py-2&quot;]/p[@class=&quot;text-h6&quot;]</value>
+      <webElementGuid>132f0014-38cd-404a-aff1-65cd1ea18621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/div/form/div/div/div[3]/p</value>
+      <webElementGuid>176cbf3b-9c8b-4c97-8686-ace30df8a114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/following::p[1]</value>
+      <webElementGuid>733f34e7-db65-408c-b603-e388f3e1b0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::p[1]</value>
+      <webElementGuid>05ccd300-596f-4913-973f-eab0a0f2bb24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post'])[1]/preceding::p[2]</value>
+      <webElementGuid>a9a8687f-75d2-41f2-b27a-4dc7d5f09d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Rules'])[1]/preceding::p[2]</value>
+      <webElementGuid>cdfe66e0-f372-4958-80e1-fdf8fc39bf75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Image or Video']/parent::*</value>
+      <webElementGuid>e62895f6-de22-4bc4-9acf-360360b48e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>f3c14ae6-4a1a-4204-864c-c050a39719f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Image or Video' or . = 'Image or Video')]</value>
+      <webElementGuid>a9562ff3-76fb-418c-8090-c6c95b83483e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

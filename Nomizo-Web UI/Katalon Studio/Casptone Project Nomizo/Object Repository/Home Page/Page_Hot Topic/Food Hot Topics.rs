@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Food Hot Topics</name>
+   <tag></tag>
+   <elementGuidId>6d7cdf5e-d613-4c89-b770-32571c9da75b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div[2]/div/div/main/div/div/div/div[2]/div/div[1]/div/div/div/div[1]/div[1]/div/div/div[1]/a/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2726e6df-0419-45a8-86c3-96dab9831be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>22f0cc04-8798-4593-84b0-50821e8c1d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2.  
+  Foods
+</value>
+      <webElementGuid>c7348a19-8d43-4ae1-bb80-eef0b382ee61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div[2]/div/div/main/div/div/div/div[2]/div/div[1]/div/div/div/div[1]/div[1]/div/div/div[1]/a/div/div[3]/span</value>
+      <webElementGuid>462f0ba8-2747-46f3-97d0-f199b1286080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/a/div</value>
+      <webElementGuid>987452e8-12aa-4363-996c-f477efe448d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/following::div[4]</value>
+      <webElementGuid>3d089fc2-e61e-463b-abf0-e3ff63e953aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architectures'])[3]/following::div[5]</value>
+      <webElementGuid>540b9ed6-0b68-42e9-ba73-392dcfc17421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[2]/preceding::div[8]</value>
+      <webElementGuid>0d7ec2f1-fb29-4303-b3a5-3b1bef8496e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div</value>
+      <webElementGuid>c0843cf6-d2c6-414a-8766-cc06d079f237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2.  
+  Foods
+' or . = '2.  
+  Foods
+')]</value>
+      <webElementGuid>88f0d7a5-c1e2-454b-96a5-dda60e8edcd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

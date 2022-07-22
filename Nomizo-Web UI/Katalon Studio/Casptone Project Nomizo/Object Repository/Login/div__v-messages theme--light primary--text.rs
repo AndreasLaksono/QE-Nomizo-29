@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__v-messages theme--light primary--text</name>
+   <tag></tag>
+   <elementGuidId>e7380faa-718b-414c-8bb2-3ec58f11b72f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div/form/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-messages.theme--light.primary--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f0947ad-9a78-49dc-ae4c-c05c3f828b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-messages theme--light primary--text</value>
+      <webElementGuid>62eeb82c-026b-4141-b8c1-c7c00b5977f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;row pa-0 ma-0 align-center justify-center&quot;]/div[@class=&quot;col col-4&quot;]/div[@class=&quot;v-list-item v-list-item--three-line theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input input-group--focused rounded-lg v-input--is-focused v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-text-field__details&quot;]/div[@class=&quot;v-messages theme--light primary--text&quot;]</value>
+      <webElementGuid>d4f2e637-bc3f-4c88-ac8e-d8faeb482809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/form/div[2]/div/div[2]/div</value>
+      <webElementGuid>0d7ecbf9-836c-42f1-8a78-8116cf9d0c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
+      <webElementGuid>6c8d8e81-c71f-4830-9ae8-031681cc9953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan username anda'])[1]/following::div[8]</value>
+      <webElementGuid>4e067c5c-5cdf-4ecd-8f35-257b33a2643d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[3]</value>
+      <webElementGuid>c41fee32-8128-4042-9ff4-faf7c683929b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div[2]/div</value>
+      <webElementGuid>0f2b6168-5b77-496e-8a82-d99e223bf5f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

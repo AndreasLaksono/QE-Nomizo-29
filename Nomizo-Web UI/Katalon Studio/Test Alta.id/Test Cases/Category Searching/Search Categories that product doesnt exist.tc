@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Categories that product doesnt exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8fe42de-1a4e-4025-af77-735f4f9ad85f</testCaseGuid>
+</TestCaseEntity>

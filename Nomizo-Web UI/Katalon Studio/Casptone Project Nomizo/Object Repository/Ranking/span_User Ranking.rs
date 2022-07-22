@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User Ranking</name>
+   <tag></tag>
+   <elementGuidId>23bb1b7f-922c-4162-b499-de32aa5c308a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div[1]/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[1]/table/tbody/tr[5]/td[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div/table/tbody/tr[5]/td[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4659465b-3faf-41fa-8f2d-8f1f22ce98ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  @pakBudRT03
+</value>
+      <webElementGuid>136d2c62-9ba1-47e9-90f9-046a9564befc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[1]/table/tbody/tr[5]/td[2]/a/span</value>
+      <webElementGuid>ff931f2d-43f3-4d31-b004-f752cb2c2bc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div/table/tbody/tr[5]/td[2]/a/span</value>
+      <webElementGuid>d261def4-a184-49b9-a5e0-03e476b1eb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[7]/following::span[1]</value>
+      <webElementGuid>f56901cb-5b36-4661-b7f5-5e0f75cd5c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@budi-MAN'])[1]/following::span[2]</value>
+      <webElementGuid>eacfff26-c4f8-4529-8428-9f0610254d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[8]/preceding::span[1]</value>
+      <webElementGuid>b1d432ba-9298-43c6-8455-caf39068b405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@testUser1'])[1]/preceding::span[2]</value>
+      <webElementGuid>e21801c7-6616-42d9-a92e-a30504aa7c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@pakBudRT03']/parent::*</value>
+      <webElementGuid>b2d64de5-8647-437e-8af9-a730bda3e866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/a/span</value>
+      <webElementGuid>5255dd69-d42f-43af-8575-220f1e8b4668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+  @pakBudRT03
+' or . = '
+  @pakBudRT03
+')]</value>
+      <webElementGuid>418d799a-1858-4178-81d5-dad6931e575d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

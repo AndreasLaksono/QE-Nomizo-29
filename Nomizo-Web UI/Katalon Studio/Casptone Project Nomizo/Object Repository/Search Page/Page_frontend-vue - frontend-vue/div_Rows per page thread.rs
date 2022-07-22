@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rows per page thread</name>
+   <tag></tag>
+   <elementGuidId>063a032e-670d-4e49-ab35-64f2dcb08d22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div/section/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-select__slot > div.v-input__append-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>021ce7f9-2b74-44b8-9eb8-b4c3c900ecbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input__append-inner</value>
+      <webElementGuid>e467dce8-5a07-4728-a29b-ac78f955635c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/section/div/div/div/div/div[2]/div/div[1]/section/div/div[2]/div[1]/div/div/div/div[1]/div[2]</value>
+      <webElementGuid>c3297776-6439-4f86-953f-aa6f3e081390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div/section/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>da449434-cd58-4c7e-a788-7841c09d664d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@timqe1'])[1]/following::div[22]</value>
+      <webElementGuid>46da5a3d-9ac9-4779-8fe7-4672ad61e7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hewan'])[2]/preceding::div[6]</value>
+      <webElementGuid>9bf63a68-3df5-4d28-8ab6-976dd74173c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/preceding::div[7]</value>
+      <webElementGuid>d4d612cf-7bd2-457f-9718-2a95a3e74e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>25a51946-d929-4155-a919-47f0868f52ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

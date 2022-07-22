@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Laporan Pengguna</name>
+   <tag></tag>
+   <elementGuidId>fd57370b-9791-4ccb-906a-172ba61ff2b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[7]/div[5]/div/div/div/div/div[2]/div[2]/a/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div/main/div/div/div[7]/div[5]/div/div/div/div/div[2]/div[3]/a/div/div[2]/div[count(. | //*[(text() = 'Laporan Pengguna' or . = 'Laporan Pengguna')]) = count(//*[(text() = 'Laporan Pengguna' or . = 'Laporan Pengguna')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-overline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9da5d18-c43d-435b-bc7c-e437d5cc2552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-overline</value>
+      <webElementGuid>a0edfff0-35d6-4986-9cb9-cec3eda7f9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan Pengguna</value>
+      <webElementGuid>f91c22e9-5a61-4038-91cc-f9d6e6a4c978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/main/div/div/div[7]/div[5]/div/div/div/div/div[2]/div[3]/a/div/div[2]/div</value>
+      <webElementGuid>a324f645-9830-47a1-bfa7-e28607c8b426</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[7]/div[5]/div/div/div/div/div[2]/div[2]/a/div/div[2]/div</value>
+      <webElementGuid>5059313d-2115-443c-b880-4c3dafb2696b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@AdminNomiz...'])[1]/following::div[14]</value>
+      <webElementGuid>9812a2cf-77ef-4237-b477-dc7416564b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Pengguna Terbaru'])[1]/following::div[25]</value>
+      <webElementGuid>a4eab5f3-ea9c-4588-ac64-3669e42d78cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[1]</value>
+      <webElementGuid>4d9fc88f-0482-4a40-a3d6-359e44c76357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[1]</value>
+      <webElementGuid>004c96f6-a3a9-493d-92fb-8e132ef6e11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laporan Pengguna']/parent::*</value>
+      <webElementGuid>d2be1795-d9c7-4ab6-a070-a1d7f46e1bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>8383eab5-7ab8-4f5e-a7bd-bd9d27dc9d54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Laporan Pengguna' or . = 'Laporan Pengguna')]</value>
+      <webElementGuid>c32aa843-d86f-4722-9f33-791fe62de96d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

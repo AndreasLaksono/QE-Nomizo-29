@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Profile with Null New Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47ecaa6-24a0-4a8c-aaff-d12e5cc1399e</testCaseGuid>
+</TestCaseEntity>

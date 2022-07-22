@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Home</name>
+   <tag></tag>
+   <elementGuidId>4e68c8b0-a972-4ddf-b31d-939c8160ee6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/section/a/span/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-weight-medium.ma-2.text-capitalize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>68ef31be-993c-40ff-b817-da87f5955c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-medium ma-2 text-capitalize</value>
+      <webElementGuid>9353adf6-c1e3-4e5f-b991-c257e5159bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Home
+    </value>
+      <webElementGuid>8e3112dc-5711-4692-b5de-b216ba1d1227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/header[@class=&quot;v-sheet theme--light v-toolbar v-app-bar v-app-bar--fixed&quot;]/div[@class=&quot;v-toolbar__content&quot;]/section[1]/a[@class=&quot;v-btn--active v-btn v-btn--router v-btn--text theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]/p[@class=&quot;font-weight-medium ma-2 text-capitalize&quot;]</value>
+      <webElementGuid>71ebb18e-ef82-41f4-b5bc-da646239ef90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/section/a/span/p</value>
+      <webElementGuid>79fd13d0-b07e-4108-993c-5b69a70c80aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stations'])[1]/following::p[1]</value>
+      <webElementGuid>90a869e6-69dc-4f55-9ad8-a4b314924cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranking'])[1]/following::p[1]</value>
+      <webElementGuid>3904a409-2d00-4950-abc4-bf65d032a8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elf123456'])[1]/preceding::p[6]</value>
+      <webElementGuid>79ea62bb-de48-4cae-8414-f9a17cb5c5fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::p[6]</value>
+      <webElementGuid>9c28c004-30b9-4d3b-a20a-5e3581cad1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0a31d23a-51f6-4680-8284-40230e4208f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+      Home
+    ' or . = '
+      Home
+    ')]</value>
+      <webElementGuid>5adda326-1492-4f72-a692-cff8af9b71da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

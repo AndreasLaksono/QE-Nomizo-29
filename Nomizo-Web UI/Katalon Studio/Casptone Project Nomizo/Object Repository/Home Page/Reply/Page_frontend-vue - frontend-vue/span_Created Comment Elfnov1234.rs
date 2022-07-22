@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Created Comment Elfnov1234</name>
+   <tag></tag>
+   <elementGuidId>e3b4926f-a692-4cac-a2de-1c3676478e1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pr-1.col.col-auto > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e2fe07d-8bae-4c41-8310-f7fda0aa5571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>@Elfnov1234 </value>
+      <webElementGuid>eb3d8848-09ce-421d-ab23-c3ccd876bc31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/main/div/div/div[3]/div[1]/div/div/div/div[2]/div/div/div[4]/div[1]/div/div[2]/div[1]/div[1]/span</value>
+      <webElementGuid>64565504-f4c8-4ff2-b01a-ff400fae3b87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/span</value>
+      <webElementGuid>9ebd362a-3100-4b78-b2ae-0d5bffac45fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::span[1]</value>
+      <webElementGuid>7cfc265b-753d-415e-8108-c54a17d991cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tinggalkan Komentar..'])[1]/following::span[2]</value>
+      <webElementGuid>88961135-1785-42bf-a349-7d41416e6a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='donat yang bolong tengahnya'])[1]/preceding::span[1]</value>
+      <webElementGuid>09bb4bff-3cad-4a71-a965-cdc598fe1bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komentar'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a0c0bcd-9300-49e2-9f6d-8a85b1bbf073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@Elfnov1234']/parent::*</value>
+      <webElementGuid>db5f76e1-4144-42cb-ab8b-6eba05c6fa1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>b040b60f-de1f-49d4-a138-d698a2a536a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '@Elfnov1234 ' or . = '@Elfnov1234 ')]</value>
+      <webElementGuid>1773f34f-19fd-4f1e-942d-33f3dff084f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

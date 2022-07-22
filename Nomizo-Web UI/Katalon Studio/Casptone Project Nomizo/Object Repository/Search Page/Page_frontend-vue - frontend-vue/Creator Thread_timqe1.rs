@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Creator Thread_timqe1</name>
+   <tag></tag>
+   <elementGuidId>b7205e5e-1346-46b7-9a59-4e51511d68b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div/section/div/div/table/tbody/tr/td/div/div/div/div/div/div[3]/div/small/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.text--disabled > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd07701e-b8ff-4f2d-8d14-06d4f312a278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  @timqe1
+</value>
+      <webElementGuid>f3875b75-1862-402a-b605-3d22f3bca3d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/section[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col col-12&quot;]/div[@class=&quot;shadow rounded-lg px-5 py-2 v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/section[1]/div[@class=&quot;v-data-table v-data-table--has-bottom theme--light v-data-table--mobile&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[@class=&quot;v-data-table__mobile-table-row&quot;]/td[@class=&quot;v-data-table__mobile-row&quot;]/div[@class=&quot;v-data-table__mobile-row__cell&quot;]/div[@class=&quot;rounded-lg mx-auto v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-list-item theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;row align-center&quot;]/div[@class=&quot;col&quot;]/div[1]/small[@class=&quot;text--disabled&quot;]/a[1]/span[1]</value>
+      <webElementGuid>fe1c15d0-e253-4f0e-b06c-f391be570079</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div/section/div/div/table/tbody/tr/td/div/div/div/div/div/div[3]/div/small/a/span</value>
+      <webElementGuid>a1a62685-baf1-4707-8db2-deceea92949e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hewan'])[1]/following::span[1]</value>
+      <webElementGuid>a6457462-37c1-4621-9178-84a274233dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan'])[1]/preceding::span[5]</value>
+      <webElementGuid>76b33e5b-78a8-458e-a07e-e7d238d400cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@timqe1']/parent::*</value>
+      <webElementGuid>babac45f-6006-41c3-83df-cad19fdb49ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/a/span</value>
+      <webElementGuid>57c8daea-7412-4099-a60e-30caa310fe31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+  @timqe1
+' or . = '
+  @timqe1
+')]</value>
+      <webElementGuid>837e5efc-08d3-4b95-8b48-bcbfef5c383b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

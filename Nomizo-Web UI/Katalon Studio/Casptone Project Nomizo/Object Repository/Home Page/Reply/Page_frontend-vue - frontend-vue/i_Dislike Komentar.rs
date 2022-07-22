@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dislike Komentar</name>
+   <tag></tag>
+   <elementGuidId>7c3aef8c-b1a1-4419-b949-58bb969b3672</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div[3]/div[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.click-cursor.col.col-1 > i.v-icon.notranslate.mdi.mdi-thumb-down-outline.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8850d9ec-8405-4b9b-a454-405b37e4e789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>22783f9a-8b96-4e64-a011-724ca4dbf96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-thumb-down-outline theme--light</value>
+      <webElementGuid>c081d3f7-e8db-402a-8ea5-bff5fe1b4d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/main/div/div/div[3]/div[1]/div/div/div/div[2]/div/div/div[4]/div[1]/div/div[2]/div[3]/div[3]</value>
+      <webElementGuid>b3b6f322-e225-424e-bc1e-6c3bbbecc74d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div[2]/div/div/div[4]/div/div/div[2]/div[3]/div[3]/i</value>
+      <webElementGuid>1cff09b0-3177-4c23-b09f-1d4caf3dbb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>2da83523-71c4-42a1-8867-9f477d1eca06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

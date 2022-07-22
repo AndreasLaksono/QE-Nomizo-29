@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Silahkan masukkan judul thread anda</name>
+   <tag></tag>
+   <elementGuidId>3e9b7486-2538-4773-980e-bc3579f7a54a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-messages__message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/div/div/div/form/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73030536-b2ad-43dd-94bc-7b13ae59c8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-messages__message</value>
+      <webElementGuid>635f8b66-6bf1-4c28-93b7-01831d68d615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan masukkan judul thread anda</value>
+      <webElementGuid>4c327fc0-8d84-4428-a713-e08b286c8dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col col-7&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;py-1 my-1 col col-12&quot;]/div[@class=&quot;rounded-lg mx-auto py-3 px-3 v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-12&quot;]/form[@class=&quot;v-form&quot;]/div[1]/div[@class=&quot;v-input rounded-lg v-textarea v-textarea--auto-grow v-textarea--no-resize v-input--has-state v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder error--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-text-field__details&quot;]/div[@class=&quot;v-messages theme--light error--text&quot;]/div[@class=&quot;v-messages__wrapper&quot;]/div[@class=&quot;v-messages__message&quot;]</value>
+      <webElementGuid>17be6191-c6b9-4cac-b6f7-53650013ac30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/div/div/div/form/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>fa0b17ff-3d76-4986-ac34-d2aa4b49b5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::div[4]</value>
+      <webElementGuid>8d68043f-15f2-4db6-a448-acb3442216b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
+      <webElementGuid>78802354-7998-4c41-96a8-9b437b98d151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::div[1]</value>
+      <webElementGuid>36cff1f5-bfcb-4fc9-86fb-57f1dd53aff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/preceding::div[1]</value>
+      <webElementGuid>339b26c8-ec56-42b9-a869-c13f0e4e2303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silahkan masukkan judul thread anda']/parent::*</value>
+      <webElementGuid>a6d16265-3a97-4d05-a4b3-73a5948ca103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>a65aab9a-a105-4819-85c0-b3d160c5853d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silahkan masukkan judul thread anda' or . = 'Silahkan masukkan judul thread anda')]</value>
+      <webElementGuid>b68630a6-fdaf-4dd1-9b9d-a1dc44d1785b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

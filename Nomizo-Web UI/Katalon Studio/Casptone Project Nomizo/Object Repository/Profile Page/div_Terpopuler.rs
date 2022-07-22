@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terpopuler</name>
+   <tag></tag>
+   <elementGuidId>57773d77-7800-4198-b551-ab0d9710f233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div[1]/div/div/div/div/div[2]/div/div[1][count(. | //*[(text() = ' Terpopuler
+                  ' or . = ' Terpopuler
+                  ')]) = count(//*[(text() = ' Terpopuler
+                  ' or . = ' Terpopuler
+                  ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rounded-lg.text-capitalize.px-1.mr-3.v-tab.v-tab--active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63350fd4-65eb-4a05-80fa-77cd84b41170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>31952d4e-12e2-491c-8501-5830852278c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>33b72085-42e4-42ad-8c15-71caafdc9baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>d99c6ffa-9e19-4ba5-907f-1c4a6acf8c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-lg text-capitalize px-1 mr-3 v-tab v-tab--active</value>
+      <webElementGuid>94fd9b5e-17d7-48eb-9ddd-70df5c8bbc97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Terpopuler
+                  </value>
+      <webElementGuid>2eb66b03-612d-4b72-82c6-d5610d5b01cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div[1]/div/div/div/div/div[2]/div/div[1]</value>
+      <webElementGuid>975a5fae-d402-4a40-a8c2-97ed2432fff6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>6ae99f94-390c-433a-ac43-01761baaa519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Post'])[1]/following::div[9]</value>
+      <webElementGuid>41614b1c-9430-4de5-88bd-7a2cf1c797ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[18]</value>
+      <webElementGuid>0d03e460-d6b4-492d-8b5c-12fe8b7eaa18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>b18bb804-04b7-4bbe-b7e6-eee76e0c092b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Terpopuler
+                  ' or . = ' Terpopuler
+                  ')]</value>
+      <webElementGuid>b2e15a78-3050-4261-b01a-be61a711d8d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

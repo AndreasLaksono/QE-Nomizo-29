@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rows per page User</name>
+   <tag></tag>
+   <elementGuidId>a0a46bca-a92e-4b69-873b-0e22e218d740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[2]/div[1]/div/div/div/div[1]/div[2]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[3]/section/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-window-item.v-window-item--active > section > div.v-data-table.elevation-1.v-data-table--has-bottom.theme--light.v-data-table--mobile > div.v-data-footer > div.v-data-footer__select > div.v-input.v-input--hide-details.v-input--is-label-active.v-input--is-dirty.theme--light.v-text-field.v-text-field--is-booted.v-select > div.v-input__control > div.v-input__slot > div.v-select__slot > div.v-input__append-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74ba72c4-2340-47bc-9179-cf17e0dbad2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input__append-inner</value>
+      <webElementGuid>bb774577-ed68-4965-9674-472f2b9e9c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[2]/div[1]/div/div/div/div[1]/div[2]</value>
+      <webElementGuid>55a6a6aa-6fda-49e7-8af5-d1be4377b40f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[3]/section/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>fbc8ba7d-1216-4927-ad32-8f91687707e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[2]/following::div[9]</value>
+      <webElementGuid>d1750eee-52f2-4a81-bd5d-0ceaf9af0e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[6]</value>
+      <webElementGuid>fda350f7-135e-4e1a-bbdb-1933f1745121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[6]</value>
+      <webElementGuid>a7a87d63-b2fd-4e81-aa1a-19e7e9706bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/section/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>2bb85d8b-fc7b-421a-92ff-9324f2f2ba47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

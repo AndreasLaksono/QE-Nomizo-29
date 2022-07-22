@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ubah Rules</name>
+   <tag></tag>
+   <elementGuidId>65e4f40e-6a36-4e7a-86bc-ab8dd698a0ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b53eb8c6-70a7-4032-8340-be0c5b234257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96df629e-ad93-47d3-bf55-183493a7a2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize v-btn v-btn--outlined v-btn--text theme--light v-size--default</value>
+      <webElementGuid>9af71c6a-0d58-4908-b7e4-0605cc058a39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Ubah
+        </value>
+      <webElementGuid>654358d4-baa8-4a4f-9bb3-31fb2c1ce291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main global&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container py-0&quot;]/div[@class=&quot;rounded-lg pa-4 v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;row align-center&quot;]/div[@class=&quot;col col-auto&quot;]/button[@class=&quot;text-capitalize v-btn v-btn--outlined v-btn--text theme--light v-size--default&quot;]</value>
+      <webElementGuid>ff34a403-823f-44a8-9258-87c84563f58b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>a828a17b-9fc4-4c63-ac55-113098df8b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[7]/div[4]/div[2]/button</value>
+      <webElementGuid>7a88847c-a583-4682-acf6-11ff5940aa92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rules'])[1]/following::button[1]</value>
+      <webElementGuid>59c5ce8d-d517-4e62-a86f-15bea38b53f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua hal tentang makanan'])[1]/following::button[1]</value>
+      <webElementGuid>f938c79b-1ecb-466f-930d-d37b2f39d011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hanya hal yang berhubungan dengan makanan'])[1]/preceding::button[1]</value>
+      <webElementGuid>e55c96c4-e18c-42ba-83ed-a4eaec185a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/button</value>
+      <webElementGuid>1b9a13eb-22ac-4889-9866-d90e16321948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+          Ubah
+        ' or . = '
+          Ubah
+        ')]</value>
+      <webElementGuid>77e1385b-55c7-4dae-b183-2ac143f6812c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

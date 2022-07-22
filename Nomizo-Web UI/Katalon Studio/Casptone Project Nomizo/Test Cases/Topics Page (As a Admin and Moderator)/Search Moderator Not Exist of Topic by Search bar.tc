@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Moderator Not Exist of Topic by Search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa2e6c8-ac34-4246-9536-3571089c960e</testCaseGuid>
+</TestCaseEntity>

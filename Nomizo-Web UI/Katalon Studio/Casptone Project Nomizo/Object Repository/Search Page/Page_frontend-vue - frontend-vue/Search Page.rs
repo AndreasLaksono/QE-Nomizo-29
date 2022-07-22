@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search Page</name>
+   <tag></tag>
+   <elementGuidId>bb9bee52-b589-4bae-8202-653770e9662a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/section/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.v-btn--active.v-btn.v-btn--router.v-btn--text.theme--light.v-size--default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b5590c6-2899-44c8-9343-165a67f085b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search</value>
+      <webElementGuid>dc1e1371-a445-4d17-b370-c44304206e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn--active v-btn v-btn--router v-btn--text theme--light v-size--default</value>
+      <webElementGuid>65889389-ebd0-4699-af30-c7bce3be4c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>11a2abbf-4b10-44f8-98ae-0b262a7d0d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Search
+    </value>
+      <webElementGuid>ed480dec-03c7-4516-b340-6f4a5125816c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/header/div/section/a[2]</value>
+      <webElementGuid>d5661f09-0f89-4a9e-b827-5cdeaedab795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/section/a[2]</value>
+      <webElementGuid>2ea197e6-4461-4ead-b797-03890272bd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stations'])[1]/following::a[2]</value>
+      <webElementGuid>ac987ea8-d6da-4ded-9c4f-dd00c4357de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranking'])[1]/following::a[3]</value>
+      <webElementGuid>d1a3bfe2-4d0b-48f7-91e1-cdc27c982664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elfnov1234'])[1]/preceding::a[2]</value>
+      <webElementGuid>6fc3ce52-b1ce-4d24-bc0d-7db5d797ab84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::a[2]</value>
+      <webElementGuid>571832c3-ba43-4fb5-b1ea-dcf920d67c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/search')])[2]</value>
+      <webElementGuid>37db307a-6869-4b1f-b1f0-cd3e7614103b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/section/a[2]</value>
+      <webElementGuid>f866e249-ce5f-419a-b929-b73fffa4269d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search' and (text() = '
+      Search
+    ' or . = '
+      Search
+    ')]</value>
+      <webElementGuid>293593a6-65e5-453a-8116-4e141320d1a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

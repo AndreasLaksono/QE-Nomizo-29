@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terbaru</name>
+   <tag></tag>
+   <elementGuidId>d0939fa7-b542-48a1-bf55-32a3c71b956d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div[1]/div/div/div/div/div[2]/div/div[2][count(. | //*[(text() = ' Terbaru
+                  ' or . = ' Terbaru
+                  ')]) = count(//*[(text() = ' Terbaru
+                  ' or . = ' Terbaru
+                  ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rounded-lg.text-capitalize.px-1.mr-3.v-tab.v-tab--active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fa570af-2558-4b04-bed8-6edc73e9baa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>70e50b65-f6a9-4a86-8ce6-de206c53a348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a0d10037-72ad-426c-a2d8-109ae3ffa71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>527d80a2-cfa5-4d4f-95f0-9e56bc503424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-lg text-capitalize px-1 mr-3 v-tab v-tab--active</value>
+      <webElementGuid>2a1b428d-134f-4deb-8bf3-8807047a09da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Terbaru
+                  </value>
+      <webElementGuid>d809effa-fe1c-495c-98d5-a3a5cdeabe8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div[1]/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>7a486c3d-643f-4adc-be3f-e455fea250a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>6901a0d6-fa4d-4665-981a-32b94f63831e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Post'])[1]/following::div[12]</value>
+      <webElementGuid>1d9d7e79-d724-4603-9026-7c0ce2bff27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Badminton'])[1]/preceding::div[7]</value>
+      <webElementGuid>8f63c08e-565d-4889-9f55-0a316b76f387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>ad77087d-5446-40df-92d9-e72dab9d25b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Terbaru
+                  ' or . = ' Terbaru
+                  ')]</value>
+      <webElementGuid>687ef815-57fa-4582-a329-7aa3c38f3220</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

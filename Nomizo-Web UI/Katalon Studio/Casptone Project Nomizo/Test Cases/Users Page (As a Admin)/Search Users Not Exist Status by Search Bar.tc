@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Users Not Exist Status by Search Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2df88b61-0307-4438-b0d3-5f7f0211a795</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Message Null Confirm Pass</name>
+   <tag></tag>
+   <elementGuidId>31ef9d68-e4cc-4c9e-bcbb-ec0634c71d8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div/form/div[4]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div/div[2]/div/div[2]/div/form/div[4]/div/div[2]/div/div/div[count(. | //*[(text() = 'Masukkan ulang password anda' or . = 'Masukkan ulang password anda')]) = count(//*[(text() = 'Masukkan ulang password anda' or . = 'Masukkan ulang password anda')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fefdc115-2767-49dc-80cf-985fe7c6e757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-messages__message</value>
+      <webElementGuid>91140cbe-06a0-4b2b-8e49-7ac3a01fc308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan ulang password anda</value>
+      <webElementGuid>f9d974ad-c9a5-41e5-bcc8-06b24d518797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/div[2]/div/div[2]/div/form/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>5d910864-cba8-4a55-870d-5ba729c3d0dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div/form/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>4eb32cea-06d6-42d8-b9d3-1a074d9500f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::div[7]</value>
+      <webElementGuid>520a5b16-0567-452a-8d7d-506ff0222bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password harus mengandung setidaknya satu karakter spesial'])[1]/following::div[10]</value>
+      <webElementGuid>c94d3a1c-35a1-40fc-bb97-1f8f9b2a583b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::div[1]</value>
+      <webElementGuid>0dffa81d-ee7c-4b47-8e52-ccfc26258f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan ulang password anda']/parent::*</value>
+      <webElementGuid>d4aeefd7-a895-42f2-9698-b6beff0d63b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>cb77ac55-1567-4006-8fb1-ddb97f1903d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masukkan ulang password anda' or . = 'Masukkan ulang password anda')]</value>
+      <webElementGuid>6db6be3b-e91f-43d2-8eb4-1ef8dda33177</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

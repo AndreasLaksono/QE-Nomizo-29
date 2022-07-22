@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_email</name>
+   <tag></tag>
+   <elementGuidId>9b4d6d53-fbbf-4403-8cf5-2fa98cf3a9d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[4]/div/div[3]/div[3]/form/div[3]/div/div/div[1]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[4]/div/div[3]/div[3]/form/div[3]/div/div/div[1]/div/textarea</value>
+      <webElementGuid>261e0dfd-23ef-4795-b15a-67f9c2c1bf86</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

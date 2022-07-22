@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert_Masukkan password anda</name>
+   <tag></tag>
+   <elementGuidId>6f83e43b-4364-44a9-8c58-73cd2949ef95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div/form/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-messages__message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e22d036-aec7-45b1-bb2b-f22b8bc09e88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-messages__message</value>
+      <webElementGuid>52c33340-c3c4-4b9f-9a81-2ff0796cce21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan password anda</value>
+      <webElementGuid>69ac14cb-100f-4dcc-b98f-8ef713361a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;row pa-0 ma-0 align-center justify-center&quot;]/div[@class=&quot;col col-4&quot;]/div[@class=&quot;v-list-item v-list-item--three-line theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input input-group--focused rounded-lg v-input--has-state v-input--dense theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-text-field--placeholder error--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-text-field__details&quot;]/div[@class=&quot;v-messages theme--light error--text&quot;]/div[@class=&quot;v-messages__wrapper&quot;]/div[@class=&quot;v-messages__message&quot;]</value>
+      <webElementGuid>e9575490-52b0-469a-8a50-5f9d66a3cf62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/form/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>ed87b550-dec0-428d-880d-a63d098bad8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[7]</value>
+      <webElementGuid>6407a3ed-d38b-4a73-966d-d114eeb57fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[16]</value>
+      <webElementGuid>7ed59b50-6c97-4273-851e-1fb2812bbe56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[2]</value>
+      <webElementGuid>518130e5-d834-4c14-a2be-c43cd3c33e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan password anda']/parent::*</value>
+      <webElementGuid>cb8ba937-a604-4105-81af-75ccad068c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>b3481b18-cef2-4923-8385-936d0494f88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masukkan password anda' or . = 'Masukkan password anda')]</value>
+      <webElementGuid>dd11f7f1-d5aa-4801-8ca9-da1a7a13cb8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

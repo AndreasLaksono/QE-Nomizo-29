@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Creator Thread</name>
+   <tag></tag>
+   <elementGuidId>e6ada167-5971-4603-b888-8f20957805a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div/div/div[1]/div/div/div[5]/div/small/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.text--disabled > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/div/div[5]/div/small/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b332dc52-51e6-4ba0-8a96-bbb0bfff882a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  @abdul123
+</value>
+      <webElementGuid>46e32be0-534d-4e02-89a8-c74a561f11d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/div/div/div[1]/div/div/div/div[1]/div/div/div[5]/div/small/a/span</value>
+      <webElementGuid>308d2ec5-6e04-4ddc-810d-6a34e39f2f37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/div/div[5]/div/small/a/span</value>
+      <webElementGuid>6841f9de-ece7-4e9f-a9dd-4170ad791c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Architectures'])[1]/following::span[1]</value>
+      <webElementGuid>6e386899-04f7-40ca-bb7a-84318491c32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::span[4]</value>
+      <webElementGuid>74dd0a05-69bf-4825-a7a5-501ae52408cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tinggalkan Komentar..'])[1]/preceding::span[5]</value>
+      <webElementGuid>ecb36d78-801f-4170-b54e-840a955eef24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@abdul123']/parent::*</value>
+      <webElementGuid>9ea53dcc-353c-4621-95dd-9191a16bafb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small/a/span</value>
+      <webElementGuid>745d5e20-6471-4ce1-bcec-d340c742c609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+  @abdul123
+' or . = '
+  @abdul123
+')]</value>
+      <webElementGuid>1a8b0543-d316-4283-839d-1a3d8d784317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

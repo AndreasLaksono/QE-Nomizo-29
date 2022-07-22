@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert Message No Data Available Topic</name>
+   <tag></tag>
+   <elementGuidId>d5180a6b-ba6e-4095-9e91-b796656d03b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-data-table.elevation-1.v-data-table--has-bottom.theme--light.v-data-table--mobile > div.v-data-table__wrapper > table > tbody > tr.v-data-table__empty-wrapper > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d4ef00f4-b016-4e91-b091-f5970a7c7c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data available</value>
+      <webElementGuid>d5ef5173-02c1-4f75-b7a5-cf02ef2ccc7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[1]/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div[1]/table/tbody/tr/td</value>
+      <webElementGuid>5b8a46d3-bc97-46ce-8b65-60b94a8dfbe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/section/div/div/div/div/div[2]/div/div[2]/section/div/div/table/tbody/tr/td</value>
+      <webElementGuid>3c506afa-dca1-4f53-9093-e16f7d38cc2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[1]/following::td[1]</value>
+      <webElementGuid>fcec1e14-968d-49c5-9dfa-6fea2452a657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[2]/preceding::td[1]</value>
+      <webElementGuid>08d8f992-d8e9-41ac-b075-234642b06120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div/table/tbody/tr/td</value>
+      <webElementGuid>b80bbf6a-5a58-4f50-808a-e0c6f6daeb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'No data available' or . = 'No data available')]</value>
+      <webElementGuid>75f068ac-3993-4b0b-8028-df87a80ce6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
