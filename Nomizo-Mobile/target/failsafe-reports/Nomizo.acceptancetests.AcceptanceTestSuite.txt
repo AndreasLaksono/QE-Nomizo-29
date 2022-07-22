@@ -1,0 +1,206 @@
+-------------------------------------------------------------------------------
+Test set: Nomizo.acceptancetests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 39, Failures: 0, Errors: 17, Skipped: 0, Time elapsed: 2,559.795 s <<< FAILURE! - in Nomizo.acceptancetests.AcceptanceTestSuite
+Nomizo app.Login Scenario #2  Time elapsed: 87.852 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Profil"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e8293597-4e7f-4350-9d11-520a95c37cb3
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Profil"]}
+
+Nomizo app.Post - Create new post #1  Time elapsed: 89.489 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: bc6d56b0-56b4-4834-88e0-e92a557f81db
+*** Element info: {Using=xpath, value=//android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]}
+
+Nomizo app.Post - Create new post #2  Time elapsed: 120.219 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.ImageView[@content-desc="Food 14 Postingan"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 643eced9-41c9-4768-8dbc-121b4b7ed09e
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="Food 14 Postingan"]}
+
+Nomizo app.Post - Create new post #3  Time elapsed: 124.897 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.ImageView[@content-desc="Food 14 Postingan"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 7b72eec8-1243-4cc0-a36c-961343a41f31
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="Food 14 Postingan"]}
+
+Nomizo app.Post - Create new post #4  Time elapsed: 26.305 s  <<< ERROR!
+org.openqa.selenium.StaleElementReferenceException: 
+The element 'By.xpath: //android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[5]' does not exist in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ceaecaf1-9a34-48d4-8660-71e8501c4f28
+
+Nomizo app.Post - Create new kategori #1  Time elapsed: 85.835 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Button[@content-desc="Pilih Kategori"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ca9ee834-868d-4632-b569-cc01a190661e
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+
+Nomizo app.Post - Create new kategori #2  Time elapsed: 90.446 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Button[@content-desc="Pilih Kategori"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 66da1e42-d404-4127-9948-61a43684094d
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+
+Nomizo app.Post - Create new kategori #3  Time elapsed: 91.898 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Button[@content-desc="Pilih Kategori"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5cd5e2bb-b127-4d8a-a963-69ce695917b3
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+
+Nomizo app.Post - Create new kategori #4  Time elapsed: 101.547 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.ImageView[@content-desc="Food 14 Postingan"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 0e05ab53-a0c3-4cde-9290-fc3d18c97e85
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="Food 14 Postingan"]}
+
+Nomizo app.Post - Create new kategori #5  Time elapsed: 87.075 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.Button[@content-desc="Pilih Kategori"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ef6b2b94-b933-48dd-a9be-e3e792208052
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+
+Nomizo app.Search - Follow user  Time elapsed: 91.684 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Populer Tab 1 of 4"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4258bb14-4f71-4edd-95dc-d2490bb29121
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Populer Tab 1 of 4"]}
+
+Nomizo app.Search - Follow kategori  Time elapsed: 94.053 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Kategori Tab 3 of 4"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5e6d92d7-f420-44a5-a1a7-d3a06a93a05e
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Kategori Tab 3 of 4"]}
+
+Nomizo app.Post - Share post  Time elapsed: 101.854 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.widget.ImageView[@content-desc="27 jam lalu diposting Sepak Bola Sepak bola adalah olahraga yang memakai kaki 0"]/android.view.View[5] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 24988e30-6a81-4361-8902-5849084a72a0
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="27 jam lalu diposting Sepak Bola Sepak bola adalah olahraga yang memakai kaki 0"]/android.view.View[5]}
+
+Nomizo app.Search #1  Time elapsed: 84.245 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Beranda"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a1b0c244-1d23-4b5d-89be-43cb907d9090
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Beranda"]}
+
+Nomizo app.Search #2  Time elapsed: 86.665 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Beranda"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 61cd9474-50c5-46fd-9733-f22a3d1d312d
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Beranda"]}
+
+Nomizo app.Search #3  Time elapsed: 91.448 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View[@content-desc="Kategori Tab 3 of 4"] (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: cf03539c-a2c3-42c0-b512-10a048a07cdf
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Kategori Tab 3 of 4"]}
+
+Nomizo app.Search #4  Time elapsed: 93.693 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View (tried for 60 second(s) with 5000 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 645198ed-9f5c-4a8c-80d7-789f8ff86cb5
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View}
+

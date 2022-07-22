@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="17" failures="0" name="Nomizo app" skipped="0" tests="39" time="2556.46" timestamp="2022-07-22 01:55:02"><testcase name="Login Scenario"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: e8293597-4e7f-4350-9d11-520a95c37cb3&#10;*** Element info: {Using=xpath, value=//android.view.View[@content-desc=&quot;Profil&quot;]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e8293597-4e7f-4350-9d11-520a95c37cb3
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Profil"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e8293597-4e7f-4350-9d11-520a95c37cb3
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Profil"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.homepage.homePage.buttonProfileAppears(homePage.java:92)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iValidateErrorMessage(nomizoSteps.java:72)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Register Scenario"/><testcase name="Profile - Logout User"/><testcase name="Profile - Edit User"/><testcase name="Profile - View populer post"/><testcase name="Profile - View latest post"/><testcase name="Profile - Search"/><testcase name="Notification - View"/><testcase name="Post - Create new post"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: bc6d56b0-56b4-4834-88e0-e92a557f81db&#10;*** Element info: {Using=xpath, value=//android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: bc6d56b0-56b4-4834-88e0-e92a557f81db
+*** Element info: {Using=xpath, value=//android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: bc6d56b0-56b4-4834-88e0-e92a557f81db
+*** Element info: {Using=xpath, value=//android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[1]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.click(BasePageObject.java:27)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.post.postPage.judulDiskusiField(postPage.java:14)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iInputJudulDiskusi(nomizoSteps.java:293)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Post - Create new kategori"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: ca9ee834-868d-4632-b569-cc01a190661e&#10;*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc=&quot;Pilih Kategori&quot;]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ca9ee834-868d-4632-b569-cc01a190661e
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ca9ee834-868d-4632-b569-cc01a190661e
+*** Element info: {Using=xpath, value=//android.widget.Button[@content-desc="Pilih Kategori"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.click(BasePageObject.java:27)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.post.postPage.clickButtonKategori(postPage.java:63)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iClickKategoriButton(nomizoSteps.java:325)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Search - Follow user"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 4258bb14-4f71-4edd-95dc-d2490bb29121&#10;*** Element info: {Using=xpath, value=//android.view.View[@content-desc=&quot;Populer Tab 1 of 4&quot;]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4258bb14-4f71-4edd-95dc-d2490bb29121
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Populer Tab 1 of 4"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4258bb14-4f71-4edd-95dc-d2490bb29121
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Populer Tab 1 of 4"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.click(BasePageObject.java:27)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.search.searchPage.clickButtonCardUser(searchPage.java:29)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iClickUser(nomizoSteps.java:367)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Search - Follow kategori"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 5e6d92d7-f420-44a5-a1a7-d3a06a93a05e&#10;*** Element info: {Using=xpath, value=//android.view.View[@content-desc=&quot;Kategori Tab 3 of 4&quot;]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5e6d92d7-f420-44a5-a1a7-d3a06a93a05e
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Kategori Tab 3 of 4"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5e6d92d7-f420-44a5-a1a7-d3a06a93a05e
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Kategori Tab 3 of 4"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.click(BasePageObject.java:27)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.search.searchPage.clickButtonKategori(searchPage.java:77)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iClickKategori(nomizoSteps.java:381)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Post - Send Comment"/><testcase name="Post - Share post"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 24988e30-6a81-4361-8902-5849084a72a0&#10;*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc=&quot;27 jam lalu diposting Sepak Bola Sepak bola adalah olahraga yang memakai kaki 0&quot;]/android.view.View[5]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 24988e30-6a81-4361-8902-5849084a72a0
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="27 jam lalu diposting Sepak Bola Sepak bola adalah olahraga yang memakai kaki 0"]/android.view.View[5]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 24988e30-6a81-4361-8902-5849084a72a0
+*** Element info: {Using=xpath, value=//android.widget.ImageView[@content-desc="27 jam lalu diposting Sepak Bola Sepak bola adalah olahraga yang memakai kaki 0"]/android.view.View[5]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.click(BasePageObject.java:27)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.homepage.homePage.clickButtonSharePost(homePage.java:15)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iClickSharePostCardButton(nomizoSteps.java:417)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Search"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: a1b0c244-1d23-4b5d-89be-43cb907d9090&#10;*** Element info: {Using=xpath, value=//android.view.View[@content-desc=&quot;Beranda&quot;]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a1b0c244-1d23-4b5d-89be-43cb907d9090
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Beranda"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\KULIAH\Alterra Academy\F..., appPackage: com.example.capstone_project, automationName: UIAutomator2, databaseEnabled: false, desired: {app: D:\KULIAH\Alterra Academy\F..., automationName: UIAutomator2, platformName: android, platformVersion: 11, resetKeyboard: true, unicodeKeyboard: true}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, resetKeyboard: true, statBarHeight: 136, takesScreenshot: true, unicodeKeyboard: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a1b0c244-1d23-4b5d-89be-43cb907d9090
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc="Beranda"]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-B1UUVVQ', ip: '192.168.0.172', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.base.BasePageObject.find(BasePageObject.java:23)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.pages.homepage.homePage.buttonHomeAppears(homePage.java:44)&#13;
+Nomizo.Mobile@1.0-SNAPSHOT/Nomizo.steps.nomizoSteps.iAmOnHomePage(nomizoSteps.java:198)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:63)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:49)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:99)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:71)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:234)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase></testsuite>
